@@ -1,0 +1,9 @@
+Ferramentas do JDK
+javac -> roda o compilador e converte arquivos .java em arquivos .class
+java -> roda a JVM e executa o programa
+jar -> empacota os arquivos
+javadoc -> gera documentação baseada em comentários
+
+
+javac -version -> mostra a versão do compilador
+java -version -> mostra a versão da JVM
