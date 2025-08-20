@@ -34,3 +34,15 @@ class Passaro {
     { System.out.println("Nevado"); }  
 }
 
+class Ovo {
+    public Ovo() {
+        numero = 5;
+    }
+    public static void main(String[] args) {
+        Ovo ovo = new Ovo();
+        System.out.println(ovo.numero);
+    }
+    private int numero = 3;
+    { numero = 4; }
+}
+
